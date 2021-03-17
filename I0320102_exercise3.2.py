@@ -1,3 +1,4 @@
+#Exercise 3.2
 #Contoh cara update nilai pada python
 
 list = ['fisika', 'kimia', 1993, 2017]
