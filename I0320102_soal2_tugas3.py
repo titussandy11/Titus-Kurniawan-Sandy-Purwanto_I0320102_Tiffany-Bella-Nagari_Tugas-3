@@ -4,8 +4,8 @@
 #Kelas C
 
 dict = {'Nama' : ['Titus'],
-        'Hobi' : ['Bermain basket', 'tidur, makan'],
-        'Sosial media' : ['Instagram', 'line, Twitter'],
+        'Hobi' : ['Bermain basket', 'tidur', 'makan'],
+        'Sosial media' : ['Instagram', 'line', 'Twitter'],
         'Lagu kesukaan' : ['Save Your Tears', 'Loving is easy'],
         'Makanan favorit' : ['Nasi goreng', 'soto', 'magelangan']}
 print(dict)
