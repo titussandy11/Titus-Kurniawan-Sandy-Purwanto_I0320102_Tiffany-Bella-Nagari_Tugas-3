@@ -6,7 +6,7 @@
 dict = {'Nama' : ['Titus'],
         'Hobi' : ['Bermain basket', 'tidur', 'makan'],
         'Sosial media' : ['Instagram', 'line', 'Twitter'],
-        'Lagu kesukaan' : ['Save Your Tears', 'Loving is easy'],
+        'Lagu kesukaan' : ['Save Your Tears', 'Loving is easy'. 'Firework'],
         'Makanan favorit' : ['Nasi goreng', 'soto', 'magelangan']}
 print(dict)
 
