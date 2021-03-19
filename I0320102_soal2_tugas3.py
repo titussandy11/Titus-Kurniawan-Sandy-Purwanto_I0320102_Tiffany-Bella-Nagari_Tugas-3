@@ -6,7 +6,7 @@
 dict = {'Nama' : ['Titus'],
         'Hobi' : ['Bermain basket', 'tidur', 'makan'],
         'Sosial media' : ['Instagram', 'line', 'Twitter'],
-        'Lagu kesukaan' : ['Save Your Tears', 'Loving is easy'. 'Firework'],
+        'Lagu kesukaan' : ['Save Your Tears', 'Loving is easy', 'Firework'],
         'Makanan favorit' : ['Nasi goreng', 'soto', 'magelangan']}
 print(dict)
 
@@ -19,7 +19,5 @@ del dict['Makanan favorit'][1:3]
 
 #Menambahkan satu hobi
 dict['Hobi'].append('Mendengarkan musik')
-
-
 
 print(dict)
